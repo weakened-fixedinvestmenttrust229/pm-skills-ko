@@ -1,4 +1,3 @@
-![GitHub stars](https://img.shields.io/github/stars/lucas-flatwhite/pm-skills-ko)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
 
 # PM Skills 한국어판: 더 나은 제품 의사결정을 위한 AI 운영 시스템
