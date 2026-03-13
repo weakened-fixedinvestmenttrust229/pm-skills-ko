@@ -1,0 +1,19 @@
+{
+  "name": "pm-product-discovery",
+  "version": "1.0.1",
+  "description": "PM을 위한 프로덕트 디스커버리 스킬: 아이디에이션, 실험 설계, 가정 검증, 기능 우선순위 결정, 고객 인터뷰 종합.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "discovery",
+    "ideation",
+    "experiments",
+    "assumptions"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

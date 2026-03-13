@@ -1,0 +1,20 @@
+{
+  "name": "pm-marketing-growth",
+  "version": "1.0.1",
+  "description": "제품 마케팅 및 성장 스킬: 마케팅 아이디어, 가치 제안 문구, North Star 메트릭, 제품 네이밍, 포지셔닝.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "marketing",
+    "growth",
+    "north-star",
+    "positioning",
+    "branding"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

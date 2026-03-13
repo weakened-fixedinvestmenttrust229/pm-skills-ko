@@ -1,0 +1,23 @@
+{
+  "name": "pm-market-research",
+  "version": "1.0.1",
+  "description": "PM을 위한 시장 조사 스킬: 사용자 페르소나, 시장 세분화, 감성 분석, 경쟁사 분석.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "market-research",
+    "personas",
+    "segmentation",
+    "competitor-analysis",
+    "market-sizing",
+    "TAM",
+    "SAM",
+    "SOM"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

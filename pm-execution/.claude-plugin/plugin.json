@@ -1,0 +1,25 @@
+{
+  "name": "pm-execution",
+  "version": "1.0.1",
+  "description": "실행 및 제품 관리 스킬: PRD, OKR, 로드맵, 스프린트, 프리모템, 이해관계자 맵, 사용자 스토리, 우선순위 프레임워크 등.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "execution",
+    "prd",
+    "okrs",
+    "roadmap",
+    "sprint",
+    "pre-mortem",
+    "user-stories",
+    "backlog",
+    "prioritization",
+    "agile"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

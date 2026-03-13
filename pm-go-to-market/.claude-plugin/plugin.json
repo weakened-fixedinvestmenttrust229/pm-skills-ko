@@ -1,0 +1,20 @@
+{
+  "name": "pm-go-to-market",
+  "version": "1.0.1",
+  "description": "제품 관리자를 위한 시장 출시(GTM) 스킬: GTM 전략, 성장 루프, GTM 모션, 교두보 세그먼트, 이상적인 고객 프로필.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "go-to-market",
+    "gtm",
+    "growth-loops",
+    "icp",
+    "launch"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pm-toolkit",
+  "version": "1.0.1",
+  "description": "PM 유틸리티 스킬: 이력서 검토, NDA 초안 작성, 개인정보 처리방침 생성, 문법/흐름 검토. 핵심 제품 업무 이외에 제품 관리자에게 필수적인 도구들.",
+  "author": {
+    "name": "Paweł Huryn",
+    "email": "pawel@productcompass.pm",
+    "url": "https://www.productcompass.pm"
+  },
+  "keywords": [
+    "product-management",
+    "resume",
+    "legal",
+    "nda",
+    "privacy-policy",
+    "copywriting"
+  ],
+  "homepage": "https://www.productcompass.pm",
+  "license": "MIT"
+}
