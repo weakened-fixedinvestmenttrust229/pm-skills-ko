@@ -1,2 +1,9 @@
 _Internal/
 CLAUDE.md
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
